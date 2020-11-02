@@ -1,1 +1,9 @@
 # Sentiment-Analysis-Algorithm
+
+EN:
+This algorithm aims to visualize the plot of a selected novel (that has to be in .txt format), with a Sentiment Analysis procedure in which every sentence is assigned a positive or negative value (based on the words it contains) and a number (in numerical order). Those data are stored in .txt files, refined, and plotted in a graph which will give us an idea of how the plot of the novel proceeds. Then it is possible to trace back in the novel the happiest or saddest points that the graph highlighted by using other files that the script generates, in which the highest or lowest values are stored (the threshold is decided by the user on runtime), so as to quickly identify groups of sentences with relevant values.
+The program was inspired by Matthew Jockers' algorithm Syuzhet, presented in the article "A novel method for detecting plot" (2014)
+
+ITA:
+Questo algoritmo si prefigge di fornire un grafico dell'andamento della trama di un dato romanzo (che deve essere in formato .txt), con una procedura di Sentiment Analysis in cui a ogni frase viene assegnato valore positivo o negativo (basandosi sulle parole che tale frase contiene) e il numero in ordine numerico. Questi dati sono immagazzinati in altri file .txt, rifiniti, e inseriti in un grafico che ci darà un'idea dell'andamento della trama, evidenziando i momenti più felici e più tristi. E' poi possibile rintracciare i momenti significativi che il grafico evidenzia usando altri files che il programma genera, in cui i valori più alti o più bassi sono salvati (la soglia di registrazione è decisa dall'utente prima del calcolo), in modo da rintracciare velocemente i gruppi di frasi che più incidono.
+Per questo programma mi sono ispirato all'algoritmo Syuzhet di Matthew Jockers, presentato nell'articolo del 2014 "A novel method for detecting plot".
